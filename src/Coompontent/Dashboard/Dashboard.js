@@ -1060,7 +1060,6 @@ function Dashboard() {
                                     </div>
                             </li>
                             <li className="py-15 px-5">
-                                {/* <!-- checkbox --> */}
                                 <input type="checkbox" id="basic_checkbox_10" className="filled-in"/>
                                     <label for="basic_checkbox_10" className="mb-0 h-15"></label>
                                     <span className="text-line">Proin nec mi porta</span>
