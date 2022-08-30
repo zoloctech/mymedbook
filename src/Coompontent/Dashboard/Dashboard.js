@@ -6,7 +6,6 @@ function Dashboard() {
         <div>
             <div className="content-wrapper">
                 <div className="container-full">
-                    {/* <!-- Main content --> */}
                     <section className="content">
                         <div className="row">
                             <div className="col-xl-8 col-12">
