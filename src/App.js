@@ -9,7 +9,6 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <div className="wrapper">
-    {/* <div id="loader"></div> */}
     <Header />
     <Sidebar />
 
